@@ -1,2 +1,6 @@
 bfCatchesGF.png
 sshit.txt
+delete assets\images\money.png
+foldercool
+assets
+foldercool/bitch.txt
